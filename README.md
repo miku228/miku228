@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 It's Miku
+
+🔭 I’m currently working on FlaskReact Simple Application for getting used to Flask more
+🤔 I’m looking for a software/application developer job in Canada
+
+
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 <!--
 **miku228/miku228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
