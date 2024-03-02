@@ -1,10 +1,10 @@
 ### Hi there 👋 It's Miku
 
-🔭 I’m currently working on FlaskReact Simple Application for getting used to Flask more
-🤔 I’m looking for a software/application developer job in Canada
+## About Me
+- 🔭 I’m currently working on FlaskReact Simple Application for getting used to Flask more
+- 🤔 I’m looking for a software/application developer job in Canada
 
-
-<summary>My top languages</summary>
+## My top languages
 
 | Rank | Languages |
 |-----:|-----------|
