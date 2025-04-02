@@ -4,7 +4,7 @@
 - :computer: Junior full-stack developer
 - :sparkles: Passionate about leveraging technology to drive efficiency and deliver impactful solutions through cross-functional collaboration
 - :woman_technologist: A unique blend of tech and finance expertise, bringing analytical problem-solving and strategic thinking to software development.
-- ⚡ Fun fact: I'm currently into coffee, photography, and biking :coffee: :camera: :bike:
+- :dancer: I'm currently into coffee, photography, and biking :coffee: :camera: :bike:
 
   
 ### My top languages
